@@ -1,5 +1,6 @@
 package com.example.demo
 
+import com.example.demo.entity.Book
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.stereotype.Service
 
